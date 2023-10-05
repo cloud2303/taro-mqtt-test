@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "hello-taro",
+  "appid": "wx2e0d9da5d460ddeb",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
